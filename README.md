@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:85FFF4,100:9C40E5&text=Mingi%20Git&section=header&fontColor=E5E5E5&reversal=false&fontAlignY=50&textBg=false&animation=fadeIn&descAlign=50&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:85FFF4,100:FF57AD&text=Mingi%20Git&section=header&fontColor=E5E5E5&reversal=false&fontAlignY=50&textBg=false&animation=fadeIn&descAlign=50&descAlignY=50)
 <br>
 <br>
 <br>
