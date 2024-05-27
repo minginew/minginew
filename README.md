@@ -1,16 +1,16 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:33C2FF,100:FF118B&text=Mingi%20Git&section=header&fontColor=FFFFFF&reversal=false&fontAlignY=50&textBg=false&animation=fadeIn&descAlign=50&descAlignY=50)
 <br>
 <br>
 <br>
-
-<div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=minginew&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
-    <br>
-    <br>
-    <a href="https://solved.ac/thsalsrl102">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsalsrl102" alt="Solved.ac Profile"/>
-    </a>
-    </div>
+<img src="https://github-readme-stats.vercel.app/api?username=minginew&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+<br>
+<br>
+<a href="https://solved.ac/thsalsrl102">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsalsrl102" alt="Solved.ac Profile"/>
+</a>
+</div>
 <br>
 <br>
 
