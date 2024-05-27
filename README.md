@@ -2,12 +2,15 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=minginew&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
-<br>
-<br>
-<a href="https://solved.ac/thsalsrl102">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsalsrl102" alt="Solved.ac Profile"/>
-</a>
+
+<div align=center>
+    <img src="https://github-readme-stats.vercel.app/api?username=minginew&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+    <br>
+    <br>
+    <a href="https://solved.ac/thsalsrl102">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsalsrl102" alt="Solved.ac Profile"/>
+    </a>
+    </div>
 <br>
 <br>
 
