@@ -9,7 +9,7 @@
 <br>
 <br>
 <a href="https://solved.ac/thsalsrl102">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsalsrl102" alt="Solved.ac Profile"/>
+<img src="http://mazandi.herokuapp.com/api?handle=thsalsrl102&theme=warm"/>
 </a>
 </div>
 <br>
